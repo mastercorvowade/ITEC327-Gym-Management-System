@@ -3,6 +3,6 @@
 *.js linguist-detectable=false
 *.sql linguist-detectable=true
 *.mysql linguist-detectable=true
-*.sql linguist-language=my sql
+*.sql linguist-language=sql
 *.mysql linguist-language=mysql
 *.css linguist-detectable=false
