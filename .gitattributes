@@ -2,3 +2,5 @@
 * text=auto
 *.js linguist-detectable=false
 *.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.my linguist-language=sql
