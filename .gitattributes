@@ -5,4 +5,4 @@
 *.sql linguist-language=sql
 *.my linguist-language=sql
 *.css linguist-detectable=false
- *.hack linguist-detectable=false
+*.hack linguist-detectable=false
