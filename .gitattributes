@@ -4,5 +4,5 @@
 *.sql linguist-detectable=true
 *.mysql linguist-detectable=true
 *.sql linguist-language=sql
-*.my linguist-language=sql
+*.mysql linguist-language=mysql
 *.css linguist-detectable=false
